@@ -76,5 +76,5 @@ By combining execution-level trading data with sentiment labels, the goal was to
 ---
 
 ## Author
-Prepared by **Vishesh Jain**  
-Date: *August 18, 2025*
+Prepared by **Manu Jain**  
+Date: *September 10, 2025*
